@@ -1,19 +1,20 @@
 [
   {
     "remote":      "github",
-    "repository":  "device_xiaomi_msm8953-common-sakura",
+    "repository":  "CesiumOS-Devices/device_xiaomi_msm8953-common-sakura",
     "target_path": "device/xiaomi/msm8953-common"
+    "branch":      "ten"
   },
   {
     "remote":      "github",
-    "repository":  "mahajant99/vendor_xiaomi_sakura",
+    "repository":  "CesiumOS-Devices/vendor_xiaomi_sakura",
     "target_path": "vendor/xiaomi",
-    "branch":      "lineage-17.0"
+    "branch":      "ten"
   },
   {
     "remote":      "github",
-    "repository":  "mahajant99/kernel_xiaomi_msm8953-sakura",
+    "repository":  "CesiumOS-Devices/kernel_xiaomi_msm8953-sakura",
     "target_path": "kernel/xiaomi/msm8953",
-    "branch":      "lineage-17.0"
+    "branch":      "ten"
   }
 ]
